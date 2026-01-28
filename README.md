@@ -242,3 +242,4 @@ Feel free to use and modify for your special someone!
 
 ## 📜 License
 MIT License - Feel free to use this for your Valentine! 
+Deployed via GitHub Pages
